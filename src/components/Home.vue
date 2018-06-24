@@ -111,7 +111,7 @@ export default {
     margin-top: 18px;
     width: 100%;
     height: 405px;
-    background-image: url('../../static/chart.png');
+    background-image: url('https://kevin10410.github.io/order/static/chart.png');
     background-repeat: no-repeat;
     background-size: cover;
   }
